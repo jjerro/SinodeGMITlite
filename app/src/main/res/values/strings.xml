@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SinodeGMIT lite</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_news">Berita Utama</string>
+    <string name="nav_article">Artikel</string>
+    <string name="nav_PA">Bahan PA</string>
+    <string name="nav_liturgy">Liturgi</string>
+    <string name="nav_shepherd">Suara Gembala</string>
+    <string name="nav_download">Download</string>
+    <string name="nav_video">Media</string>
+    <string name="nav_privacy">Kebijakan Privasi</string>
+    <string name="nav_close">Keluar</string>
+    <string name="owner_name">Sinode GMIT</string>
+    <string name="owner_email">infokom.gmit@yahoo.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="@string/nav_news" />
+        <item
+            android:id="@+id/nav_article"
+            android:icon="@drawable/ic_insert_drive_file_black_24dp"
+            android:title="@string/nav_article" />
+        <item
+            android:id="@+id/nav_liturgy"
+            android:icon="@drawable/ic_assignment_black_24dp"
+            android:title="@string/nav_liturgy" />
+        <item
+            android:id="@+id/nav_shepherd"
+            android:icon="@drawable/ic_person_pin_black_24dp"
+            android:title="@string/nav_shepherd" />
+        <item
+            android:id="@+id/nav_PA"
+            android:icon="@drawable/ic_import_contacts_black_24dp"
+            android:title="@string/nav_PA" />
+        <item
+            android:id="@+id/nav_download"
+            android:icon="@drawable/ic_file_download_black_24dp"
+            android:title="@string/nav_download" />
+        <item
+            android:id="@+id/nav_videos"
+            android:icon="@drawable/ic_video_library_black_24dp"
+            android:title="@string/nav_video" />
+    </group>
+
+    <group android:id="@+id/group2">
+            <item
+                android:id="@+id/nav_privacyURL"
+                android:icon="@drawable/ic_link_black_24dp"
+                android:title="@string/nav_privacy" />
+            <item
+                android:id="@+id/nav_close"
+                android:icon="@drawable/ic_close_black_24dp"
+                android:title="@string/nav_close" />
+    </group>
+
+
+</menu>
